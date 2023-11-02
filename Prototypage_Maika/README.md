@@ -1,1 +1,1 @@
-# Creation d'une animation générative
+# Création d'une animation générative
