@@ -36,7 +36,7 @@ On a réaliser que pour le projet vu qu'on va faire les animatiosn génératives
 la détection de mouvement de Felix et des lumières de Laurie à ma projection pour faire une version "low Budget" de notre projet final.
 
 
-![Watch the video]https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/d4b7cbb4-7093-4f31-b8a1-b0f4da34e88c)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/4268fd25-18b8-4739-bcc2-8dffb57b4fd0)
+![Watch the video][(https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/d4b7cbb4-7093-4f31-b8a1-b0f4da34e88c)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/4268fd25-18b8-4739-bcc2-8dffb57b4fd0)
 
 
 <img width="148" alt="Capture" src="https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/d4b7cbb4-7093-4f31-b8a1-b0f4da34e88c">
