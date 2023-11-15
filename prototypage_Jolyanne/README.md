@@ -30,3 +30,13 @@ Pour pouvoir indiquer à quel projecteur parler pour chaque shader choisir la ds
 
 ![MicrosoftTeams-image (4)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/e745ec7d-9233-4a76-a455-e35ca975dec9)
 
+
+## Conclusion
+On a réaliser que pour le projet vu qu'on va faire les animatiosn génératives avec Touch Design , on va pas avoir besoin d'utiliser OBS (il parait) , mais on a quand même réussi à intégrer , touch design ,  
+la détection de mouvement de Felix et des lumières de Laurie à ma projection pour faire une version "low Budget" de notre projet final.
+
+
+
+
+https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/4268fd25-18b8-4739-bcc2-8dffb57b4fd0
+
