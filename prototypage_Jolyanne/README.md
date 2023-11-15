@@ -26,7 +26,8 @@ Pour pouvoir indiquer à quel projecteur parler pour chaque shader choisir la ds
 ## Cinquième partie: Contrôle U 
 ##  Résultat :
 
-![MicrosoftTeams-image (3)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/627be68d-c9c0-4a1b-80c0-f3c35a3fbb1c)
+
+![MicrosoftTeams-image (5)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/a5697501-d7e5-4a92-bd4e-827886faf9ca)
 
 ![MicrosoftTeams-image (4)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/e745ec7d-9233-4a76-a455-e35ca975dec9)
 
