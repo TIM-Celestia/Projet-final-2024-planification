@@ -6,7 +6,27 @@ Notre projet est majoritairemet du mapping vidéo dans le studio , et un de nos 
 Pour commencer, il faut connecter les transmitter et revever au projecteur et à l'ordinateur . Pour ce faire j'ai du utiliser un cable hdmi to display port  pour pouvoir le connecter à la tour. Une fois connecter j'ai du aller dans les paramètres pour pouvoir détecter les projecteurs comme des écrans.
 
 ## Deuxième partie: Ouvrir MadMapper
-Ouvrir le logiciel MadMapper
+Ouvrir le logiciel MadMapper et mettre des shader dans les différents projecteurs.
+
+![MicrosoftTeams-image (1)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/effcd58b-e460-424f-acd9-8f5c728b7863)
+> photo de mon prototype Mad Mapper 
+
+
 
 ## Troisième  partie : OBS
-Ensuite , j'ai ouvert OBS et j'ai ajouter une source :Capture de fenêtre et j'ai choisie MadMapper
+Ensuite , j'ai ouvert OBS et j'ai ajouter une source :Capture de fenêtre et j'ai choisie Mad Mapper
+
+## Quatrième patrie : Projecteur et Mad Mapper
+Pour pouvoir indiquer à quel projecteur parler pour chaque shader choisir la dsestination du projecteur comme ça 
+
+![MicrosoftTeams-image (2)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/1f399296-f036-4ddd-915c-ea228cfcba75)
+
+> Photo de3 la destination des projecteur
+
+## Cinquième partie: Contrôle U 
+##  Résultat :
+
+![MicrosoftTeams-image (3)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/627be68d-c9c0-4a1b-80c0-f3c35a3fbb1c)
+
+![MicrosoftTeams-image (4)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/e745ec7d-9233-4a76-a455-e35ca975dec9)
+
