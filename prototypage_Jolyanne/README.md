@@ -11,8 +11,6 @@ Ouvrir le logiciel MadMapper et mettre des shader dans les différents projecteu
 ![MicrosoftTeams-image (1)](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/effcd58b-e460-424f-acd9-8f5c728b7863)
 > photo de mon prototype Mad Mapper 
 
-
-
 ## Troisième  partie : OBS
 Ensuite , j'ai ouvert OBS et j'ai ajouter une source :Capture de fenêtre et j'ai choisie Mad Mapper
 
