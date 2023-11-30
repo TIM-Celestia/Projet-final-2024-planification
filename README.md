@@ -98,30 +98,32 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface audio USB disposant 8 sorties 
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 4 projecteurs vidéo lentille standard
+    * 4 système d'acrochage
+    * 4 kinect
+    * 4 cables HTMI
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
+    * 2 lumière LED RGBAW DMX
+    * 2 fils XLR 3 conducteurs de 20'
     * Interface DMX USB
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 4 multiprise
 
 * Réseau
     * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * 8 cables ethernet
+    * 4 received et transmited
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 2 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinent
+    * toile 8/10 pieds et fil 5 pieds de long
+    * beton
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
