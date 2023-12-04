@@ -129,10 +129,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [TouchDesigner](https://derivative.ca/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+    * [QlC+](https://www.qlcplus.org/)
+* [OBS](https://obsproject.com/)   
+
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
