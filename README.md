@@ -137,8 +137,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Guillaume
+
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
