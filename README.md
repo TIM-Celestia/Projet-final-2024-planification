@@ -146,9 +146,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Grand studio
     * Projection vidéo dans le cyclo
     * Capatation vidéo
+    * Toile Spandex extensible
 
-* Petit studio
-    * Enregsitrement audio
+
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
