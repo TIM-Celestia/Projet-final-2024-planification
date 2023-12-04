@@ -128,7 +128,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
+* [TouchDesigner](https://derivative.ca/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
