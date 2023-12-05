@@ -157,10 +157,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
-
+[Budget](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2052728_cmontmorency_qc_ca/EQuySqnt1V5Lp-1WpiS0FhwB0_P74i3e_VFehdjQoZS8JQ?e=9bTmcS)
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
