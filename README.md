@@ -100,7 +100,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Vidéo
     * 4 projecteurs vidéo lentille standard
     * 4 système d'acrochage
-    * 4 kinect
+    * 2 kinect
     * 4 cables HTMI
 
 * Lumière
