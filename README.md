@@ -74,8 +74,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](media
-/plan-haut.png)
+![exemple de plantation](media/plan-haut.png)
 
 ### Schéma de branchement 
 
