@@ -75,7 +75,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ### Plantation 
 ![plan_haut](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/c98f4fa9-cf85-4046-8915-6fc8394108c8)
 > Plantation vu de haut
-![plan-de-face 1](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/544bbb63-6cad-467a-a238-f0c4b62296c4)
+![plan-de-face 1](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/5b037b00-715a-4c90-a3b2-820801f33b68)
 > Plantation vu de face
 
 ### Schéma de branchement 
