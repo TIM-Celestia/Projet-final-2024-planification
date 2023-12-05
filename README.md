@@ -35,7 +35,7 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Celestial est une œuvre multimédia immersive qui relie le corps humain et le temps à l’art. L’œuvre consiste à détendre l’interacteur lorsqu’il interagit avec les images abstraites projetés sur les murs qui l’entourent en appuyant sur un mur de toile devant lui. Lorsqu’il n’y a personne dans la zone d’interaction, délimité par un tapis et une lumière, les formes projetés seront rapides et un drone d’ambiance intense sera joué. Lorsque quelqu’un met les pieds dans la zone, les images ralentiront et le drone sera plus calme et relaxant. L’œuvre sera mise en place dans le cyclo du grand studio du Collège Montmorency afin que les projections s’alignent parfaitement, créant un univers immersif autour de l’interacteur. 
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
