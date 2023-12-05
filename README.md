@@ -74,7 +74,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias//media
+/plan.drawio 1.png)
 
 ### Schéma de branchement 
 
