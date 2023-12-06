@@ -37,20 +37,20 @@
 ## Intention de départ
 Celestial est une œuvre multimédia immersive qui relie le corps humain et le temps à l’art. L’œuvre consiste à détendre l’interacteur lorsqu’il interagit avec les images abstraites projetés sur les murs qui l’entourent en appuyant sur un mur de toile devant lui. Lorsqu’il n’y a personne dans la zone d’interaction, délimité par un tapis et une lumière, les formes projetés seront rapides et un drone d’ambiance intense sera joué. Lorsque quelqu’un met les pieds dans la zone, les images ralentiront et le drone sera plus calme et relaxant. L’œuvre sera mise en place dans le cyclo du grand studio du Collège Montmorency afin que les projections s’alignent parfaitement, créant un univers immersif autour de l’interacteur. 
 
-## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
+### Moodbord de l'idée de projet 
+
 > Insérez directement des captures d'écran et liens vers des médias ici.
+
+### Moodbord Visuel
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
