@@ -66,6 +66,7 @@ j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/0d8e2f33-1e58-4482-9a3a-ecb0d67c2f28)
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/8f6860d2-900e-4c3e-a85e-1c72b7fe8ffa)
 ![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/46c85a08-59c2-42f3-ae4a-47b10f31a010)
+![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/bba89e68-8fee-4a47-a6cd-1e5eb28ec432)
 
 ## Scénario, scénarimage ou document audio/visuel
 ![projetFinal-board-00001](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/a8cfa858-2249-408a-b860-6e1f4d57385a)
