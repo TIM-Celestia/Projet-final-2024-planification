@@ -99,9 +99,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
+* Tapis
+    * Couleur noir
+    * 22,9' x 6,56'
 * Cyclorama
 
 ## Équipements requis
