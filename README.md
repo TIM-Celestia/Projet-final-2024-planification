@@ -49,6 +49,9 @@ Celestial est une œuvre multimédia immersive qui relie le corps humain et le t
 
 ### Moodbord Visuel
 
+![687474703a2f2f696d672e796f75747562652e636f6d2f76692f47327074474377446b56452f302e6a7067](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/f998a19b-6d48-465d-b313-a8785f1e8012)
+
+
 https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
