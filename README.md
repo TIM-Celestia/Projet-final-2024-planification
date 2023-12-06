@@ -63,6 +63,9 @@ j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
 
+## Scénario, scénarimage ou document audio/visuel
+[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
