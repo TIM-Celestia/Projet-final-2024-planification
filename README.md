@@ -218,7 +218,7 @@ https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery
 **Jolyanne Desjardins**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Mapping vidéo;
-- Communication entre les projecteurs avec OBS et MadMapper;
+- Communication entre les projecteurs avec TouchDesigner et MadMapper;
 
 Liste des tâches dans Git Hub:  
 https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/issues/assigned/jolyanneDesgardins
@@ -230,11 +230,12 @@ https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery
 - Création des drones;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/issues/assigned/2142692
+https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery=assignee%3A2142692
 
 **Tâches pas encore attribuées**  
 https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery=no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
