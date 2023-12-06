@@ -43,16 +43,25 @@ Celestial est une œuvre multimédia immersive qui relie le corps humain et le t
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
 ### Moodbord de l'idée de projet 
+<img src="media/exposition_van_gogh.jpg" width="600px"></img> 
 ![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
 ![detection_presence](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/8c197d54-e072-4c3d-bb3a-ffbccdbf24f7)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/YU1mx2s6qTA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqg2AArgIigIMCAAQARhlIGUoZTAP&rs=AOn4CLDHuXob9wcPr4PrslLJN9qC0-VSKQ)](https://www.youtube.com/watch?v=YU1mx2s6qTA)
+
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
 ### Moodbord Visuel
 
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
+
+j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
+
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
