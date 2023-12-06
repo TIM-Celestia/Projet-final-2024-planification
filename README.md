@@ -94,7 +94,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Plantation vu de côté
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![branchement](medias/schema_branchement.png)
 
 ## Matériel de scénographie requis
 
