@@ -43,6 +43,8 @@ Celestial est une œuvre multimédia immersive qui relie le corps humain et le t
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
 ### Moodbord de l'idée de projet 
+![cube](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/f7b0dbe0-65ce-4031-a272-a28c96e289d1)
+![detection_presence](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/8c197d54-e072-4c3d-bb3a-ffbccdbf24f7)
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
