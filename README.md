@@ -47,9 +47,6 @@ Celestial est une œuvre multimédia immersive qui relie le corps humain et le t
 ![detection_presence](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/8c197d54-e072-4c3d-bb3a-ffbccdbf24f7)
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/YU1mx2s6qTA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqg2AArgIigIMCAAQARhlIGUoZTAP&rs=AOn4CLDHuXob9wcPr4PrslLJN9qC0-VSKQ)](https://www.youtube.com/watch?v=YU1mx2s6qTA)
 
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
 ### Moodbord Visuel
 
 https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
@@ -58,11 +55,30 @@ https://www.youtube.com/watch?v=2k6H5Qa_fCE&t=123s
 
 j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
 
-
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
 
+![image1](https://raw.githubusercontent.com/2142692/concept_projet_final/main/medias/immersive.webp)
+
+![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/ff6bfcfa-321c-4336-9515-cdb82ef07273)
+![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/0d8e2f33-1e58-4482-9a3a-ecb0d67c2f28)
+![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/8f6860d2-900e-4c3e-a85e-1c72b7fe8ffa)
+![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/46c85a08-59c2-42f3-ae4a-47b10f31a010)
+
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+![projetFinal-board-00001](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/a8cfa858-2249-408a-b860-6e1f4d57385a)
+Ce que l'interacteur voit quand il arrive à l'installation
+
+![projetFinal-board-00002](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/7d3ed631-68f1-460e-a529-604188a3f7ae)
+L'interacteur met ses souliers/bottes dans la boîte à côté de l'installation. Une lumière s'allumera lorsqu'il détecte un objet dedans
+
+![projetFinal-board-00003](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/c184c17e-d9e1-4fac-af6d-36b4730ffefb)
+L'interacteur entre dans le cyclo où une projection rapide est projetée sur les murs du cyclo et un spotlight délimite une zone sur le tapis. La projection ralentit et la lumière s'éteint lorsque l'interacteur entre dans la zone délimitée par le spotlight devant le mur extensible.
+
+![projetFinal-board-00005](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/8f6ff0b6-425d-4d15-82d8-1800b6bec780)
+Lorsque l'interacteur appuie sur la toile, la projection changera à cet endroit. La projection en arrière suit où l'interacteur appuie.
+
+![projetFinal-board-00006](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/89608091/565b6bf5-1768-4d88-844e-2cc805cf8c5b)
+Lorsque l'interacteur arrête d'appuyer la toile, la couleur changera graduellement à partir de la toile jusqu'à en arrière de l'interacteur
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
