@@ -28,10 +28,13 @@
 
 # Intention ou concept
 [comment]: <> (## Cartographie)
+
 [comment]: <> (> Exemples:)
 
 [comment]: <> (![Exemple de cartographie 1](medias/cartographie_exemple.PNG))
+
 [comment]: <> (![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG))
+
 [comment]: <> (![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG))
 
 ## Intention de départ
