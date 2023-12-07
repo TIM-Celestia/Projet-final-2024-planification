@@ -110,8 +110,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![plan-de-face 1](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/99ce743f-d452-40fe-a0cf-b29615301032)
 > Plantation vu de face
+
 ![plan_cote](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/555a208a-a5f4-4e8e-a688-119886afb9d3)
 > Plantation vu de côté
+
+ 
 ### Schéma de branchement 
 
 ![branchement](media/schema_branchement.png)
@@ -135,31 +138,31 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Vidéo
     * 4 projecteurs vidéo lentille standard
-    * 4 système d'acrochage
-    * 2 kinect
+    * 4 systèmes d'acrochage
+    * 2 kinects
     * 4 cables HTMI
 
 * Lumière
-    * 2 lumière LED RGBAW DMX
+    * 2 lumières LED RGBAW DMX
     * 2 fils XLR 3 conducteurs de 20'
     * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 8 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
-    * 4 multiprise
+    * 4 multiprises
 
 * Réseau
     * 4 fils cat6a de 15"
     * 8 cables ethernet
     * 4 received et transmited
 
-* Ordinateur
-    * 2 ordinateur portable 
+* Ordinateurs
+    * 2 ordinateurs portables
     
-* Autre
+* Autres
     * toile 8/10 pieds et fil 5 pieds de long
-    * beton
+    * béton
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
