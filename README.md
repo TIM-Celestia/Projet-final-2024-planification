@@ -172,7 +172,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * [TouchDesigner](https://derivative.ca/) 
     * [QlC+](https://www.qlcplus.org/)
-* [OBS](https://obsproject.com/)   
+* [MadMapper](https://madmapper.com/)
+* [VCV Rack 2](https://vcvrack.com/Rack)
 
 
 ## Ressources humaines requises
