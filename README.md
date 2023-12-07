@@ -27,7 +27,7 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
-[comment]: <> (## Cartographie
+[comment]: <> (## Cartographie)
 > Exemples:
 
 ![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
