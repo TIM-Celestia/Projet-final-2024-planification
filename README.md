@@ -210,9 +210,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Première itération : 12 au 17 février 
+- Prototype finale : 26 février au 1er mars
+- Présentation des projets devant public : du 18 mars au 22 mars
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
