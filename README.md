@@ -267,7 +267,7 @@ https://github.com/orgs/Houston-we-have-a-project/projects/1/views/1?filterQuery
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- Mardi à 10h45: Rencontre de suivi de projet.
 
 Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- à déterminer 
