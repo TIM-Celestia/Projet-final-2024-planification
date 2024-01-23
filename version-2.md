@@ -19,7 +19,7 @@ référence pour les projection de la fond:
  > title="Physarum with Touchdesigner"
 
 
-[![IMAGE ALT TEXT HERE](![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/30a8822d-4c70-4ac2-9b59-10172c30c6e4)
+[![IMAGE ALT TEXT HERE](![image](https://i.ytimg.com/vi/u1lWg_Lx0cw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3flw21rYaIRI6fdc8U5whT3ZwUw)
 )](https://www.youtube.com/watch?v=u1lWg_Lx0cw&t=2s)
 
 
