@@ -38,9 +38,9 @@
 [comment]: <> (![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG))--->
 
 ## Intention de départ
-Celestial est une œuvre multimédia immersive qui relie le corps humain et le temps à l’art. L’œuvre consiste à détendre l’interacteur lorsqu’il interagit avec les images abstraites projetés sur les murs qui l’entourent en appuyant sur un mur de toile devant lui. Lorsqu’il n’y a personne dans la zone d’interaction, délimité par un tapis et une lumière, les formes projetés seront rapides et un drone d’ambiance intense sera joué. Lorsque quelqu’un met les pieds dans la zone, les images ralentiront et le drone sera plus calme et relaxant. L’œuvre sera mise en place dans le cyclo du grand studio du Collège Montmorency afin que les projections s’alignent parfaitement, créant un univers immersif autour de l’interacteur. 
+Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et moins de temps pour rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.
 
-
+[comment]: <> (pour un e petite perode de temps la personne va voir l'hstoriwure des truc qu'elle a faite en n genre de ces choix car la tu va pouvoir voir l'inpacte de ce que tu as fais en mettons 2 minutes que quand tu as appuiyer sa a generer une ligne et qu'a toute les fois ou il a pris le temps d'appuyer il va pouvooir voir ce qu'il a créer)
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
