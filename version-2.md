@@ -27,7 +27,7 @@ référence pour les projection de la fond:
 
 
 pour la toile:
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/shorts/vWeLrUZMcug)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/vWeLrUZMcug/hq2.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgB3gOAAuADigIMCAAQARhoIGgoaDAP&rs=AOn4CLCUHhYXiNbVCWB_mp6n1cGCMwM_WA)](https://www.youtube.com/shorts/vWeLrUZMcug)
 
 
 
