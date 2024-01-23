@@ -18,7 +18,8 @@ référence pour les projection de la fond:
  > title="Physarum with Touchdesigner"
 
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/watch?v=u1lWg_Lx0cw&t=2s)
+[![IMAGE ALT TEXT HERE](![image](https://github.com/Houston-we-have-a-project/Projet-final-2024-planification/assets/113621167/7fcdab99-075a-4d41-a22a-f548a83dfede)
+)](https://www.youtube.com/watch?v=u1lWg_Lx0cw&t=2s)
 
 
 > truc de maika 
