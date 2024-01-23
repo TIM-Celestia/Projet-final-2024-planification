@@ -42,6 +42,8 @@ Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. D
 
 [comment]: <> (pour un e petite perode de temps la personne va voir l'hstoriwure des truc qu'elle a faite en n genre de ces choix car la tu va pouvoir voir l'inpacte de ce que tu as fais en mettons 2 minutes que quand tu as appuiyer sa a generer une ligne et qu'a toute les fois ou il a pris le temps d'appuyer il va pouvooir voir ce qu'il a créer)
 
+[comment]: <> (le temps lkes souvenir la toile cert a faire les dit souvemnir qui vont afficher en forme de ligne ou forme qui vont apparaitre devant sur le murs donc les memoirs . ce promener dans le cerveau )
+
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
