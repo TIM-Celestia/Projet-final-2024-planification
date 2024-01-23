@@ -8,14 +8,14 @@ Lorsque nous allons appuyer sur la toile , selon la force exercer sur celle-ci u
 
 référence pour les projection de la fond:
 
-[![IMAGE ALT TEXT HERE](![]https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/embed/BLHGjFGR7LM)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/BLHGjFGR7LM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC6VEbIj6UwUSRQjWKw5-JmbQYXNA)](https://www.youtube.com/embed/BLHGjFGR7LM)
  
 
 
  > title="Physarum with Touchdesigner"
 
 
-[![IMAGE ALT TEXT HERE](![image](https://i.ytimg.com/vi/u1lWg_Lx0cw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3flw21rYaIRI6fdc8U5whT3ZwUw)
+[![IMAGE ALT TEXT HERE]((https://i.ytimg.com/vi/u1lWg_Lx0cw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3flw21rYaIRI6fdc8U5whT3ZwUw)
 )](https://www.youtube.com/watch?v=u1lWg_Lx0cw&t=2s)
 
 
