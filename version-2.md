@@ -2,7 +2,7 @@
 Celestial est une œuvre multimédia immersive qui relie l'humain et le temps. De nos jours , le temps controle notre vie, on est toujours occupé et on a moins le temps de rien faire car la vie va trop vite. L’œuvre consiste à insité l'intéracteur à vouloir oublier le temps qui passe et d'apprésier le temps présent.
 
 
-Celestial est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre ouvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau, les neurones et les projections sur les murs vont représenter nos souvenirs.
+Celestial est une ouvre concentrer sur le thème du temps et la mémoire humaine. Dans notre oeuvre on représente ça par une toile et de la projection. La toile est le support qui va comme représenter le cerveau, les neurones et les projections sur les murs vont représenter nos souvenirs.
 
 Lorsque nous allons appuyer sur la toile , selon la force exercer sur celle-ci une fois appuyer une nouvelle "ligne/forme" va apparaitre. a chaque fois que l'intéracteur appuie il va y avoir une forme/ligne abtraite qui va s'ajouté. et après par exemple 5 minutes certaines lignes vont commencer à disparitre tranquillent un peu pour symboliser les souvenirs qu'on fait , ces ligne vont donner l'impression d'explorer les neurones des êtres humains 
 
